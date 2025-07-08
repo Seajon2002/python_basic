@@ -1,0 +1,5 @@
+name = input('What is your name?')
+print('Username:'+name)
+addr = input('where you from: ')
+print('address : ' +addr)
+print(name+ ' lives in ' +addr)
